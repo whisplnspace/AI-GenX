@@ -26,9 +26,9 @@ To get started with AI-GenX, follow these simple steps:
   API_KEY=your_open_api_key
  ```
 4. Run the Application:
-   ```bash
-   streamlit run app.py
-   ```
+  ```bash
+  streamlit run app.py
+  ```
    
 # Usage 
 Once the application is running, you can interact with AI-GenX through the Streamlit interface. Simply enter your queries, and the chatbot will respond intelligently based on the input provided.
